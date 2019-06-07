@@ -1,0 +1,157 @@
+body
+{
+background-color: #333;
+margin: 0; 	
+font-family: 'Oswald', sans-serif;
+}
+
+.cards
+{
+background-color: #ffbf00;
+width: 300px;
+height: 20px; 	
+margin-top: 50px;
+margin-left: 140px; 	
+	
+}
+
+.cards .pages
+
+{
+display: block;
+color: black;  	
+	
+	
+}
+
+.cards:hover .pages
+{
+color: #red;
+	
+} 
+
+#frame
+{
+background-image: linear-gradient(to bottom left, darkblue , cornflowerblue);
+width: 1000px;
+height: 500px;
+margin-top: 50px;	
+margin-left: auto;  
+margin-right: auto; 	
+
+}
+
+.leftpart
+{	
+width: 570px; 
+height: 500px;
+float: left;
+
+}
+
+.name
+{
+width: 430px;
+height: 100px; 
+margin-top: 60px; 
+margin-left: 45px;
+
+}
+
+p
+{
+font-size: 50px; 	
+color: white; 
+margin: auto;
+letter-spacing: 1px;
+border-bottom: 1px solid white;  
+}
+
+p1
+{
+font-size: 16px;
+color: white; 	
+padding-top: 5px;
+		
+}
+
+.skills
+{
+width: 430px;
+height: 100px;
+margin-top: 65px; 
+margin-left: 45px;	
+}
+
+h1
+{
+color: #fff;
+font-size: 25px;
+font-weight: 300;	
+	
+	
+}
+
+.footer
+
+{
+background-color: #ffbf00; 
+width: 480px;
+height: 50px; 	
+margin-top: 125px;
+	
+	
+}
+
+h2
+{
+float: left;
+margin: auto;
+font-size: 20px; 	
+align: center;
+padding: 10px; 	
+}
+
+
+.rightpart
+{	
+width: 400px; 
+height: 400px;
+float: left;
+}
+
+.info
+{
+width: 400px; 
+height: 75px;
+float: left;
+padding-top: 25px;
+padding-left: 10px; 	
+	
+	
+}
+
+p2
+{
+font-size: 25px;
+color: white; 	
+	
+}
+
+.photo
+{
+width: 400px;
+height: 400px; 
+float: left;
+padding-top: 50px; 
+padding-left: 50px; 
+	
+	
+}
+
+img
+{
+height: 350px;
+width: 350px; 	
+
+}
